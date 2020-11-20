@@ -12,3 +12,4 @@ document.addEventListener("keydown", function(e) {
     moveDodgerLeft();
   }
 });
+moveDodgerRight
